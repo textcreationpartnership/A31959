@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties letter to the Lord Maior and aldermen of the citie of London with the humble petition of the knights, ministers, gentry, free-holders and other inhabitants of the county of Leicester to the King : also the resolution of the whole county of Essex presented to the Lords and Commons assembled in Parliament and commanded by the Lords to be forthwith printed and published.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31959</idno><idno type="EEBO-CITATION">10849329</idno>
+  <idno type="VID">46120</idno>
+  <idno type="EEBO-PROQUEST">2240943166</idno>
+  
+            <idno type="STC">Wing C2408</idno>
+            <idno type="STC">ESTC R29198</idno>
+            <idno type="OCLC">10849329</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A31959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46120)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1419:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties letter to the Lord Maior and aldermen of the citie of London with the humble petition of the knights, ministers, gentry, free-holders and other inhabitants of the county of Leicester to the King : also the resolution of the whole county of Essex presented to the Lords and Commons assembled in Parliament and commanded by the Lords to be forthwith printed and published.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Hewer and W. Moulton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+                  <note>Charles R. to our trusty and well beloved, the Lord Major, aldermen and sheriffes of our citie of London -- The humle peititon of the knights, ministres, gentry, free-holders, and many thousands of the inhabitants of the county of the captaines and souldiers, the trained bands and other inhabitants of the county of Essex --  The Lords answer to the Essex petition.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46120:1"/>
+            <pb facs="tcp:46120:1"/>
+            <p>HIS MAIESTIES LETTER. TO THE LORD MAIOR and ALDERMEN OF The Citie of <hi>LONDON,</hi> WITH The humble <hi>Petition</hi> of the Knights, Ministers, Gentry Free-holders, and other inhabitants of the Countie of LEICESTER, <hi>To the</hi> KING.</p>
+            <p>Also the Resolution of the whole Countie of <hi>Essex,</hi> Presented to the LORDS and COMMONS assembled In <hi>PARLIAMENT:</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Whereunto is annexed the Answere from the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and commanded by the LORDS to be forth<g ref="char:EOLhyphen"/>with Printed and Published.</p>
+                        <closer>
+                           <signed>John Browne. <hi>Cler. Parliament.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Hewer</hi> and <hi>W. Moulton,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:46120:2"/>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <head>To Our Trusty and Welbeloved, the Lord Major, Aldermen, and Sheriffes of Our Citie of <hi>LONDON.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Rusty and welbeloved. We greet you well. Whereas We have received severall Informations of great summes of Money endeavoured to be borrowed of Our City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> by some direction proceeding from both Our <hi>Houses</hi> of <hi>Parliament,</hi> and likewise that great labour is used to per<g ref="char:EOLhyphen"/>swade Our Subjects to raise Horse, and to furnish money, upon pretence of providing a Guard for our <hi>Parliament;</hi> These are to let you know, that (notwithstanding any scandalous Votes which have presumed to declare our Intention of levying warre against Our <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and to lay other aspersions on Vs, so fully disavowed by us in the presence of Almigty God, by Our severall Answers and Declarati<g ref="char:EOLhyphen"/>ons) all Our desires and purposes are for the publike Peace, and that We have not the least thought of raising or using Force, except We are compelled to it for the defence of Our Person and in Protection of the Law; And therefore We expect, that you suffer, not your selves to be mis-led by such vain and improbable suggestions, and do declare, That if you shall lend any summes of Money towards the reliefe of <hi>Ireland</hi> (to which VVe have contributed all the assistance could be desired of Us, which way soever Money given and raised to that purpose is desposed) or towards the payment of Our <hi>Scots</hi> Subjects. VVee shall take it as an acceptable Service at your hands; but if upon generall Pretences con<g ref="char:EOLhyphen"/>trived by a few Factious Persons against the Peace of the Kingdome, you shall give or lend any Money, or provide or raise any Horses or Armes towards the raising such a Guard. VVe shall looke upon it as the raising Force against Us, and to be done in malice and contempt of Us and Our Authority. And VVe do therefore straitly charge &amp; command you to publish this our Letter to the severall <hi>Masters</hi> &amp; <hi>Wardens</hi> of the se<g ref="char:EOLhyphen"/>verall Companies, that they may be assured that such Money as they shall lend out of their good affection to the Kingdom may be onely imploy<g ref="char:EOLhyphen"/>ed for <hi>Ireland</hi> or <hi>Scotland,</hi> and not towards such Guards▪ which (in truth) are intended by the Contrivers of that Designe (though We beleeve many honest men seduced by them do not yet see their end) to be im<g ref="char:EOLhyphen"/>ployed against Us: And if you and they shall herein fall punctually and
+<pb n="3" facs="tcp:46120:2"/> severally to observe Our Command, We shall not onely proceed a<g ref="char:EOLhyphen"/>gainst the severall Companies for deceiving the Trust reposed in them; but against the particular persons, as Contemners and Opposers of Our Authority, and of the Law of the Land, in the most exemplary way the known Law of the Land shall prescribe to Us; And shall be compel<g ref="char:EOLhyphen"/>led to question the Charter of your City, which We are willing yet to beleeve (notwithstanding the barbarous and insolent demeanour of the meaner and baser sort) in a good degree to continue loyall to Us. And of your obedience to these Our commands We do expect and require a full Account, and of the names of such persons who shall oppose the same. Hereof fail you not as you will answer the contrary at you perill.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> York <date>
+                     <hi>the</hi> 14. <hi>day of</hi> June, <hi>in t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> 18. <hi>yeer of Our Reign,</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>
+               <hi>To the Kings most excellent Majestie.</hi> The humble Petition of the Knights, Ministers, G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>try, Free-holders, and many thousands of the Inhabitants of the County of <hi>Leicester,</hi> who assembled on <hi>Horse-sairlays▪</hi> ready to accompany the <hi>Petition,</hi> if they sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld bee required.</head>
+            <head type="sub">The humble Petition of the Knights, Ministers, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ost humbly sheweth with one unani<g ref="char:EOLhyphen"/>mous consent, that your Petitioners and obedient Servants of <hi>Liecestershire;</hi> situated in the middest of you King<g ref="char:EOLhyphen"/>dome of <hi>England,</hi> and in the middest of our great feares and apparant dan<g ref="char:EOLhyphen"/>gers, by your taking up Armes and le<g ref="char:EOLhyphen"/>vying Forces (as it is thought) against your Honourable, royall, and Illustrious <hi>Parliament:</hi> thereby to cout, to ruine and disappoint their manifest good and godly purposes: and the more fully to effect this designe, never heard of (except in the Reigne of the Eleventh of <hi>Richard</hi> the Second) you have (as wee right<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:46120:3"/> conceive) by the ill advise of your pernicious Councell morgaged, pawned or sold the glory of the Land, the Jewels and Treasures of the CROVVN, which ought as highly to be prized as the MILITIA, or any Maga<g ref="char:EOLhyphen"/>zine whatsoever: the one chiefely serves to secure what is Yours in Possession; the other (being so easily parted with) abateth the lustre of your KINGDOME.</p>
+            <p>Therefore may it please your Majestie to hearken to the worthy and well-deserving Men of your Kingdome, your hopefull and our happie Parliament: and become more neere in person, and joyne in affection with your trusty and grave and solid Councell and great Court of Judicature, for surely that high Assembly with Gods Blessing and your assenting unto them can soone procure your and our safety, and annihilate all distractions and distempers.</p>
+            <p>And that you would freely consent or put our County (because we are in such eminent danger, Southward and Northward, having neither Castles or any other places of strength by Sea or Land, or approved friends besides the Parliament) in a posture of defence, and that you would recall your Warrants prohibiting our Trained bands to muster, the rather because we desire to follow the good example of our neighbour Country Men of <hi>Lincolneshire</hi> and others, and to joyne your selfe with your Parliament.</p>
+            <p>Otherwise when they shall declare and nominate the particular disturbers of Yours and Our peace, the procu<g ref="char:EOLhyphen"/>rers of your and our feares, jealousies and amazements out of their knowne experience, we shall take upon the bold<g ref="char:EOLhyphen"/>nesse to remove from your Majesty such prosecutors as are enemies to the State, and hinderers to the tranquility of the same.</p>
+            <p>Therefore we your dutifull faithfull Subjects and ser<g ref="char:EOLhyphen"/>vants humbly sue, that your Majesty would accord with
+<pb n="5" facs="tcp:46120:3"/> your Parliament, and comply with them to restraine the violent malice of the blood-thirsty Rebels in <hi>Ireland.</hi> To settle a Godly, Learned and Industrious Ministry. To Disarme the Papists seeing they rejoyce in this discord, and insolently speake words full of Arrogancy. To sepa<g ref="char:EOLhyphen"/>rate from you that subverting Councell who dare not stand to the goodnes of their Cause nor can indure the Test. To cashire those Cavaliers and other unnecessary undependants. Fully and cleerely to acquit the Lord <hi>Kim<g ref="char:EOLhyphen"/>bolton,</hi> and other the worthy Members of the least suspiti<g ref="char:EOLhyphen"/>on of Treason against your Majestie or State, one of them being chiefly intrusted for the good and welfare of our Country. To beleeve in the faithfulnesse and Loyalty of your Parliament, who regulates the oppressions of your Kingdome. And other the premisses.</p>
+            <closer>
+               <hi>And we with our lives, and Estates, and Fortunes shall be o<g ref="char:EOLhyphen"/>bedient, and loyall unto your Majesty.</hi> And pray, &amp;c.
+<dateline>
+                  <date>
+                     <hi>Iune</hi> the 18.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="6" facs="tcp:46120:4"/>
+            <head>To the Right Honorable the LORDS and COMMONS assembled in the high Court of PARLIAMENT. The humble Repromission and Resolution, of the <hi>Captaines</hi> and <hi>Souldiers</hi> the Trained Bands, and other Inhabitants of the County of ESSEX. With the Answer thereunto annexed, and commanded by the Lords to be forthwith Printed and published.</head>
+            <opener>Humbly sheweth;</opener>
+            <p>THAT we having with joy and admiration, ob<g ref="char:EOLhyphen"/>served the wise and gracious Passages and Procee<g ref="char:EOLhyphen"/>ding of this <hi>Parliament:</hi> and the pious, tender, and affectionate care of your Honors, for the preservation of the Peace and Honour of his most excellent Majestie, and these three thrice happily united Kingdoms; repre<g ref="char:EOLhyphen"/>sented to the World in your severall Ordinances, De<g ref="char:EOLhyphen"/>clarations, Votes and Remonstrances, sufficient to stop the mouth (if it were possible) of envy and malignity it self) cannot but with grief and indignation wonder to heare, that there should yet be found, &amp; that even about the Regal Throne, such unnaturall &amp; evil affected spirits, and malignant Councellors, who, desirous to swimme to the haven of their ambitious hopes, in the blood of their dearest Friends and Country-men, doe continually in<g ref="char:EOLhyphen"/>still into his Majesties Royall breast, a sinister conceit, and mis-interpretation of your most Humble and Loyall
+<pb n="7" facs="tcp:46120:4"/> Affections, and noble Actions, and Vndertakings.</p>
+            <p>Wherefore we understanding (not by mis-informa<g ref="char:EOLhyphen"/>tion of flying reports, out) by the late Votes and Decla<g ref="char:EOLhyphen"/>rations of both your Honourable Houses.</p>
+            <p>
+               <hi>That his Majestie seduced by wicked Councell intends to make Warre against the Parliament: That so to doe is a breach of the trust reposed in him by his People, contrary to his Oath: And that whosoever shall serve or assist him in such Warres, are Traytors by the Fundamentall Laws of this Kingdome.</hi>
+            </p>
+            <p>And withal perceiving your most Christian &amp; Heroical Resolutions to persist in your Honourable Endeavours▪ for the publique safety, though you should (which God avert) perish in the worke. Wee thought it our dutie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> most humbly to represent to your Honours, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aithful affections and inviolable resolutions of our souls to <hi>Stand or Fall, Live or Die,</hi> together with you: According to our PROTESTATION.</p>
+            <p>Thus with our hands upon our Swords, we stand ready at your command, to performe our Vows to God and Oathes of fidelity to his Majestie, In taking up Arms against those false Flatterers, and Traytors: who abuse his Royall Favour, intending under the glorious Title of his Name and Standard, to fight against the Peace and Honour of their Soveraigne, against Religion, and the Lawes: and to make a prey and spoyle, of three flouri<g ref="char:EOLhyphen"/>shing Kingdoms at once: And to spend our dearest blood in the defence of the lives, &amp; liberties of our Country<g ref="char:EOLhyphen"/>men; the Lawes which are the life of our liberty, and Peace; Religion more precious then both; and the King &amp; Parliament: In whose lives lies bound up the life of all the rest. VVhosoever is otherwise affected, wee hold him not worthy the name of a Souldier but a <hi>Prodi<g ref="char:EOLhyphen"/>tor</hi> of his King and Country to all Posterity.</p>
+            <p>Lastly, finding a multitude of well affected People, whose hearts are good to joyne with us but want
+<pb n="8" facs="tcp:46120:5"/> Arms we most humbly crave, That Restitution may be made of those Armes, which were taken out of their County; either out of the store lately arrived from HVLL; or otherwise as to your most excellent Wisdome shall seem best.</p>
+            <closer>And wee shall ever Pray.</closer>
+         </div>
+         <div type="response_to_petition">
+            <head>The Lords Answer to the Essex Petition.</head>
+            <p>MY LORDS have taken your Petition into consi<g ref="char:EOLhyphen"/>deration, and receive much contentment in the good affections you have expressed, and doe give you heartie and extraordinary thanks, thus seasonably and necessarily, for the good of the King and Kingdome, and of their Lordships encouragement in the performance of their duty; and the Lords doe assure you, that God wil<g ref="char:EOLhyphen"/>ling, they resolve to insist in their former declared Reso<g ref="char:EOLhyphen"/>lutions, for the upholding of the true Religion, the Kings Authoritie in the highest Court, which by sundry late Declarations and practises to abuse the people, they find so much vilified and invaded, the priviledges of Par<g ref="char:EOLhyphen"/>liament, free Course of Justice, the Lawes and Peace of this Kingdom, notwithstanding any dangers and hazards that for that cause can befall them. That for the manife<g ref="char:EOLhyphen"/>station of their good affections, and their Lordships kind acceptations thereof, they have commanded your Petit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on and the Answer, to be for<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ith Printed and publi<g ref="char:EOLhyphen"/>shed.</p>
+            <closer>
+               <signed>
+                  <hi>John, B<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>wne Cleric. Parliament.</hi>
+               </signed>
+            </closer>
+            <argument>
+               <p>
+                  <hi>This Resolution was presented to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Trained Bands, and Companies of Ʋoluntiers, who appeared at</hi> Dunmow: <hi>Jun.</hi> 10. 1642. <hi>And was received with universall Ap<g ref="char:EOLhyphen"/>probation, by holding up of Hands, throwing up of Hatts, and Acclamations: professing, That they held them unwor<g ref="char:EOLhyphen"/>thy to live, that should dislike it. And it was within three dayes after, subscribed with ten Thousand Hands.</hi>
+               </p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46120:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
